@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "mysql",
+  "url": "mysql:sauridnet_10:HAslo@123@sql.sauridnet.nazwa.pl:3306/sauridnet_10",
+  "host": "sql.sauridnet.nazwa.pl",
+  "port": 3306,
+  "user": "sauridnet_10",
+  "password": "HAslo@123",
+  "database": "sauridnet_10"
+}
